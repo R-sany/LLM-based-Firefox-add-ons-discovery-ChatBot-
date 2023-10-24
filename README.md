@@ -1,1 +1,1 @@
-# LLM-based-Firefox-add-ons-discovery-ChatBot-
+# Create an LLM-based Chat AI Firefox Add-ons Discovery Feature
