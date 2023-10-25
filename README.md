@@ -5,6 +5,9 @@ The project aims to leverage the intuitive conversational appeal of chat AI to h
 
 ## Project Tasks
 
-To build the Chat AI, we need open sourced softwares. This could be break down in following sub tasks.
+To build the Chat AI, we need open sourced softwares. This could be break down into following sub tasks.
+
+- Choosing open sourched LLM
+- 
 
 
