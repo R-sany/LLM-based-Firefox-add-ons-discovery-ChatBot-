@@ -5,9 +5,14 @@ The project aims to leverage the intuitive conversational appeal of chat AI to h
 
 ## Project Tasks
 
-To build the Chat AI, we need open sourced softwares. This could be break down into following sub tasks.
+To build the Chat AI, we need open sourced softwares. This could be break down into following sub tasks. The subtasks are not in ordered.
 
 - Choosing open sourched LLM
-- 
-
+- Choosing a LLM application creation framework
+- Implement LLM with the framework
+- Connecting Mozilla Add-ons API to framework
+- Pre-tuned or fine-tuned the model
+- Deployment of the model to Cloud
+- Creating ChatBot frontend
+- Test and production
 
