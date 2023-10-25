@@ -7,7 +7,7 @@ The project aims to leverage the intuitive conversational appeal of chat AI to h
 
 To build the Chat AI, we need open sourced softwares. This could be break down into following sub tasks. The subtasks are not in ordered.
 
-- Choosing open sourched LLM
+- [Choosing open sourched LLM](#choosing-open-sourched-llm)
 - Choosing a LLM application creation framework
 - Implement LLM with the framework
 - Connecting Mozilla Add-ons API to framework
@@ -15,4 +15,16 @@ To build the Chat AI, we need open sourced softwares. This could be break down i
 - Deployment of the model to Cloud
 - Creating ChatBot frontend
 - Test and production
+
+### Choosing open sourched LLM
+
+There are few good ready-to-use  open sourced Large Language Models are availble which can be used for this project. These models are trained on huge datasets with billions of parameters. So, it will be able to understnd the user's need.
+Here are some recent top LLMs.
+- Llama2
+- Claude 2
+- MPT-7B
+- Falcon
+- Vicuna-13B
+
+
 
