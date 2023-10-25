@@ -63,5 +63,88 @@ To test the bot's accuracy and biases we could use followings.
 - Manual testing
 - chatbot A/B testing
 
-## My 
+## 12 Weeks Internship Plan
+
+### Week - 1
+
+Tasks :
+- Install all necessary softwares.
+- Get to know the mentors and collaborators.
+- Choose an open sourced LLM
+- Choose a framework
+
+Learning goals :
+- Collaborate with open source projects via GitHub. Learn the best practices from the mentors.
+- Understand the user's needs.
+- Learn more about LLMs.
+
+### Week - 2 and 4 
+Tasks :
+- Implement the framework with the LLM.
+- Explore the frameworks and LLM and discuss with the mentors to make a viable Pipeline.
+- Connecting Firefox add-ons api to pipeline.
+- Code the pipleline and commit it to github.
+- Discuss the evaluation matrix.
+
+Learning goals :
+- Learn to code ChatBot with Python and open soursed Api.
+- Learn about firefox add-ons Api.
+- learned about LLMs pre-tune and fine-tune methods.
+
+### Week - 5
+
+Tasks :
+- Explore pipeline accuracy and evaluation matrix.
+- Improve pipeline.
+- Discuss about fine-tined methods.
+- Fine-tuned the model.
+- discuss with the mentors and teams.
+
+Learning goals :
+- Learn to fine-tune the model.
+- Learn to implement pipeline.
+- Hands on experience with production level LLms.
+  
+### Week - 6 and 7
+Tasks :
+- Discuss about potential cloud space.
+- Finding suitable cloud provider for the project.
+- Deploy the pipeline to the cloud.
+- Test the speed and accuracy.
+  
+Learning goals :
+- Gain experince in model deployment.
+- Understanding Firefox cloud systems and database.
+- Learned to deploy production level LLM in cloud storage.
+### Week - 8 and 9
+Tasks :
+- Explore chatbot's frontend options with mentors.
+- Choosing the best framework that suits the project.
+- Implement the frontend.
+- Discuss with mentors to reduce error.
+  
+Learning goals :
+- Learn to code chatbot frontend.
+- Explore firefox fronend and backend.
+- Writing good web development code for production.
+  
+### Week - 10 
+Tasks :
+- Test the model and the pipeline for any error or bugs.
+- Test the chatbot in a close small group of people.
+Learning goals :
+- Learn to test a pipeline.
+- learn to fix bugs and errors.
+
+### Week - 11 and 12
+
+Tasks :
+- Software documentation writing.
+- Make the chatbot public.
+- Make any changes if needed.
+
+
+
+
+
 
