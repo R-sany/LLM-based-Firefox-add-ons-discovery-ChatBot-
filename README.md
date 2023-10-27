@@ -147,6 +147,52 @@ Learning goals :
 - Fixing bugs.
 - Writing documentation.
 - Learning about licences.
+## Previous Projects and Experiences
+### Neuromatch Academy[1] – Summer School 2023: 
+
+I attended this year’s summer school at Neuromatch Academy.In my group we had ten global students and two global teaching assistants. During this time, I had the opportunity to go through extensive Artificial Intelligence courses.  The courses[2] included Natural Language Processing, Deep Learning, GAN, Reinforcement Learning and so on. Alongside the high quality courses, we had the opportunity to participate in a Computer Vision project.
+
+### Things I learned from this summer school’s tutorials
+
+Natural Language Processing: In the NLP tutorials, we learned about Transformers, Bert model, attention, masking, and so on. We had the opportunity to get to know the inner workings of LLMs in a group study manner. With the help of PyTorch and Python, we trained the NLP architectures and also solved problem questions. These learnings will directly help me in the internship. 
+
+Deep Learning: We learned how deep neural networks work and how it is used in natural language processing and other domains such as GAN, Reinforcement Learning. We learned how to train a model and improve its accuracy with hyperparameters. These will help me understand the Chat AI better and improve its accuracy. 
+
+Model implementation in production: At the end of the summer school we had the opportunity to learn how to implement models with Flask. This will definitely help me to implement Chat AI for this internship.
+
+### Things I learned from this summer school’s Project
+
+We had the opportunity to work on a computer vision project. In this project we build a model that predicts songs genre from music-spectrograms. We processed the images and used Alexnet to build our model. 
+–I enjoyed every moment of this project. This gave an opportunity to collaborate with other collaborators. Learned to communicate, to make decisions and to work in a team. 
+
+### Cohere for AI -aya
+
+I’m a contributor to C4AI’s aya projects. This project aims to build an open-source  multilingual LLM. One of the key elements for LLMs is fine-tuning. I’ve contributed to Bangla Language in this project. 
+
+### Image Classification: 
+For the Firefox Chat AI, classification may not be directly relevant but as an AI project, it helped me learn the process to train a model. I made a model to classify ten different flower categories [3].
+
+### Online Courses: 
+I’ve completed numerous Deep Learning, Python, SQL, and others courses online. These courses are gems. With the help of tutorials and exercise coding, I understand many computer science topics.
+
+As part of  Electrical and Electronics engineering graduation, I had to solve thousands of engineering problems in projects given by the institutions. Those  countless hours have made me resilient and focused. 
+
+### Conclusion: 
+Through all of the above projects, I learned programming, collaborations, problem solving and much needed LLMs related knowledge. I consider myself as a perfect fit for this LLM related project.
+
+### Online Certificates:
+
+Link:https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/tree/main/Certificates
+
+### References 
+
+[1] Neuramatch Academy : https://academy.neuromatch.io/ 
+
+[2] NMA courses : https://deeplearning.neuromatch.io/tutorials/intro.html 
+
+[3] Flower Classification Code: https://colab.research.google.com/drive/1MXkedgq3_IgCqGRooegDiJunaLMpXgX2
+
+[4] Cohere for AI-aya : https://instruct-multilingual-frontend-dtjnk4f6ra-ue.a.run.app/
 
 
 
