@@ -143,6 +143,11 @@ Tasks :
 - Make the chatbot public.
 - Make any changes if needed.
 
+Learning goals :
+- Fixing bugs.
+- Writing documentation.
+- Learning about licences.
+
 
 
 
