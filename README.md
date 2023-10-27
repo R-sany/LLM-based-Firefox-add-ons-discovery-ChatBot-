@@ -194,6 +194,10 @@ Link:https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/tree
 
 [4] Cohere for AI-aya : https://instruct-multilingual-frontend-dtjnk4f6ra-ue.a.run.app/
 
+### CV
+
+Link : https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/blob/main/CV/Rabius-CV.pdf
+
 
 
 
