@@ -196,7 +196,8 @@ Link:https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/tree
 
 ### CV
 
-Link : https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/blob/main/CV/Rabius-CV.pdf
+[Rabius-CV.pdf](https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/files/13193712/Rabius-CV.pdf)
+
 
 
 
