@@ -1,4 +1,4 @@
-## This folders holds the certificates 
+## This folder holds the certificates 
 
 
 
