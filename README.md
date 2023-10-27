@@ -199,6 +199,10 @@ Link:https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/tree
 [Rabius-CV.pdf](https://github.com/R-sany/LLM-based-Firefox-add-ons-discovery-ChatBot-/files/13193712/Rabius-CV.pdf)
 
 
+### I made a Introductory Video for Outreachy
+
+Link of the video : https://youtu.be/XL0nKjgR9kE?feature=shared
+
 
 
 
